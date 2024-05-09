@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverseKinematicSingle", "InverseKinematicSingle\InverseKinematicSingle.csproj", "{F9E1BB6A-259B-477C-ABC7-074C93873340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverseKinematicMulti", "InverseKinematicMulti\InverseKinematicMulti.csproj", "{8FEBFE27-757B-45F3-A808-4F8DB1EBF6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E1BB6A-259B-477C-ABC7-074C93873340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E1BB6A-259B-477C-ABC7-074C93873340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E1BB6A-259B-477C-ABC7-074C93873340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E1BB6A-259B-477C-ABC7-074C93873340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEBFE27-757B-45F3-A808-4F8DB1EBF6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FEBFE27-757B-45F3-A808-4F8DB1EBF6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FEBFE27-757B-45F3-A808-4F8DB1EBF6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FEBFE27-757B-45F3-A808-4F8DB1EBF6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2044DA7-59D4-46B2-932D-95B44F5AE4F1}
+	EndGlobalSection
+EndGlobal
